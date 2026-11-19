@@ -156,11 +156,13 @@ The Looker Studio dashboard contains:
 
 - 4 KPI scorecards
 - 11 analytical charts
-- 3 analytical sections/pages
+- 2 analytical pages:
+- Wallet & Behavioral Analysis
+- Time & Market Analysis
 
 Dashboard link:
 
-https://lookerstudio.google.com/
+https://datastudio.google.com/reporting/a9afe694-3439-4358-8b15-af0797d4a615
 
 Google Sheets:
 
