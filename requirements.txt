@@ -1,0 +1,6 @@
+﻿pandas>=2.3.3,<3.0
+SQLAlchemy>=2.0,<3.0
+psycopg2-binary>=2.9.13,<3.0
+python-dotenv>=1.0,<2.0
+gspread>=6.2,<7
+gspread-dataframe>=3.3,<4
